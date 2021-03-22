@@ -10,6 +10,7 @@
 <li>Put phar from Poggit into <code>plugins</code> folder</li>
 <li>Run your server</li>
 <li>You can setup the plugin in <code>plugin_data/AdvancedNewsPaper/Settings.yml</code></li>
+        <li>You can customize your news (language - country - category) in Settings.yml</li>
         <li>Hope you enjoy using the plugin</li>
 </ol>
 </article>

@@ -1,0 +1,11 @@
+---
+name: AdvancedNewsPaper
+author: HighestDreams
+version: 1.0.0
+main: HighestDreams\AdvancedNewsPaper\Main
+api: 3.0.0
+commands:
+  news:
+    description: Get your favorite new world news
+    default: true
+...

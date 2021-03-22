@@ -1,0 +1,71 @@
+---
+# ================================== #
+#    Plugin made by HighestDreams    #
+# ================================== #
+# What do you want the news to be about?
+# Tip: You can search for anything you want, but it is recommended that you use these (just to find better results) :  (technology - currency - business - entertainment - general - health - science - sports)
+category: technology
+# Select your language, The language should be one of these: (ar - de - en - es - fr - he - it - nl - no - pt - ru - se - ud - zh)
+language: en
+# Select your country, The country should be one of these: ()
+# | ae = ArabEmirates
+# | at = Austria
+# | ar = Argentina
+# | au = Australia
+# | be = Belgium
+# | bg = Bulgaria
+# | br = Brazil
+# | ca = Canada
+# | ch = Switzerland
+# | cn = China
+# | co = Colombia
+# | cu = Cuba
+# | cz = Česko
+# | de = Deutschland
+# | eg = Egypt
+# | fr = France
+# | gb = United Kingdom
+# | gr = Greece
+# | hk = Hong Kong
+# | hu = Hungary
+# | id = Indonesia
+# | ie = Ireland
+# | il = Israel
+# | in = India
+# | it = Italy
+# | jp = Japan
+# | kr = South Korea
+# | lt = Lithuania
+# | lv = Latvia
+# | ma = Morocco
+# | mx = Mexico
+# | ng = Nigeria
+# | nl = Nederland
+# | no = Norway
+# | nz = New Zealand
+# | ph = Philippines
+# | pl = Polska
+# | pt = Portugal
+# | ro = Romania
+# | ru = Россия (Russia)
+# | se = Sweden
+# | sg = Singapore
+# | si = Slovenija
+# | sk = Slovakia
+# | th = Thailand
+# | tr = Turkey
+# | tw = Taiwan
+# | ua = Ukraine
+# | us = United States  (DEFAULT)
+# | ve = Venezuela
+# | za = South Africa
+# Hint: Write your country Two-letter name (Above list...), For example: if your country is United states, write Two-letter name (us).
+country: us
+# َWorlds where the use of news is allowed
+# Tip: Follow this format, if you want allow using /news command in special worlds:
+# worlds:
+# - Lobby
+# - City
+# Hint: Make sure that world you wrote, exists and if you down't write anything in the [], then players are allow to use /news in all worlds in your server.
+worlds: []
+...

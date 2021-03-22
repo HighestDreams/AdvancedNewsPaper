@@ -11,6 +11,7 @@
 <li>Run your server</li>
 <li>You can setup the plugin in <code>plugin_data/AdvancedNewsPaper/Settings.yml</code></li>
         <li>You can customize your news (language - country - category) in Settings.yml</li>
+        <li>NOTE: <code>Make sure FormAPI installed in your server!!</code></li>
         <li>Hope you enjoy using the plugin</li>
 </ol>
 </article>

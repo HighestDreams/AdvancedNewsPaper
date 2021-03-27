@@ -72,9 +72,7 @@ class Main extends PluginBase implements Listener
     {
         $api = $this->getServer()->getPluginManager()->getPlugin("FormAPI");
         $form = $api->createSimpleForm(function (Player $player, $data = null) {
-            if ($data === null) {
-                return;
-            }
+            if ($data === null) return;
             for ($i = 0; $i < 10; $i++) {
                 if ($data === $i) {
                     $this->NewsContent($player, $i);
@@ -106,7 +104,7 @@ class Main extends PluginBase implements Listener
     }
 
     /**
-     * Thanks to Muqsit (FormImageFixer)
+     * Thanks to Muqsit
      * @param DataPacketReceiveEvent $event
      * @priority MONITOR
      * @ignoreCancelled true
@@ -125,7 +123,7 @@ class Main extends PluginBase implements Listener
     }
 
     /**
-     * Thanks to Muqsit (FormImageFixer)
+     * Thanks to Muqsit 
      * @param DataPacketSendEvent $event
      * @priority MONITOR
      * @ignoreCancelled true
@@ -150,7 +148,7 @@ class Main extends PluginBase implements Listener
     }
 
     /**
-     * Thanks to Muqsit (FormImageFixer)
+     * Thanks to Muqsit
      * @param Player $player
      * @param Closure $callback
      */
